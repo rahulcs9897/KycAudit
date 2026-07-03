@@ -1,0 +1,19 @@
+[project]
+name = "project-kycforensic-rag"
+version = "0.1.0"
+description = "BaFin-compliant multimodal KYC Forensic RAG pipeline"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.110.0",
+    "uvicorn>=0.29.0",
+    "langgraph>=0.0.30",
+    "langchain-core>=0.1.30",
+    "langchain-groq>=0.1.0",
+    "langchain-pinecone>=0.1.0",
+    "pinecone-client>=3.1.0",
+    "pydantic>=2.6.0",
+    "python-dotenv>=1.0.0",
+    "python-multipart>=0.0.9",
+    "psycopg2-binary>=2.9.9"
+]
