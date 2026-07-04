@@ -15,4 +15,4 @@ COPY . .
 EXPOSE 7860
 
 # 6. Launch Streamlit with strict routing rules for Hugging Face
-CMD ["streamlit", "run", "app.py", "--server.port=7860","--server.address=0.0.0.0", "--server.enableXsrfProtection=true"]
+CMD ["streamlit", "run", "app.py", "--server.port=7860","--server.address=0.0.0.0", "--server.enableXsrfProtection=false"]
