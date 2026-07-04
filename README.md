@@ -6,6 +6,9 @@ colorTo: indigo
 sdk: docker
 ---
 
+# 🚀 **Try it here:** [KYC Auditor Agent](https://huggingface.co/spaces/Rahul007007/Kyc-Auditor-Agent)
+
+---
 # 🕵️‍♂️ KYC Forensic Audit Engine
 
 A state-of-the-art, multi-stream automated KYC (Know Your Customer) identity verification and forensic analysis platform. Powered by **LangGraph**, **Llama 4 Vision**, **Groq Whisper**, and **Streamlit**, this application processes customer Video-Ident sessions in parallel, performs deep liveness and document integrity checks, supports a native **Human-in-the-Loop (HITL)** compliance override, and streams structural telemetry data into an enterprise database.
