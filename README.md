@@ -8,6 +8,8 @@ sdk: docker
 
 # 🚀 **Try it here:** [KYC Auditor Agent](https://huggingface.co/spaces/Rahul007007/Kyc-Auditor-Agent)
 
+# 🛢️ **Database view:** [Supabase](https://supabase.com)
+
 ---
 # 🕵️‍♂️ KYC Forensic Audit Engine
 
